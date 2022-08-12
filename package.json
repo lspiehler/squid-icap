@@ -1,0 +1,23 @@
+{
+  "name": "squid-icap",
+  "version": "0.0.1",
+  "description": "Playing with ICAP and squid",
+  "main": "index.js",
+  "dependencies": {
+    "nodecap2": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lspiehler/squid-icap.git"
+  },
+  "author": "Lyas Spiehler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lspiehler/squid-icap/issues"
+  },
+  "homepage": "https://github.com/lspiehler/squid-icap#readme"
+}
